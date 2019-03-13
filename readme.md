@@ -5,7 +5,11 @@
 Anacondu s Pythonem 3.7, ke stažení zde: https://www.anaconda.com/distribution/
 
 poté, co si nainstalujue condu, si nainstalujte potřebné balíčky.
-Otevřete příkazovou řádku a do ní zadejte `conda install numpy pandas matplotlib plotly seaborn jupyter scipy scikit-learn`.
+Otevřete příkazovou řádku a do ní zadejte 
+```
+conda install numpy pandas matplotlib plotly seaborn jupyter scipy scikit-learn
+```
+.
 
 Pokud se všechno nainstalovalo správně, tak po zadání `jupyter notebook` do příkazové řádky by se měl otevřít prohlížeč a v něm něco jako 
 ![notebook](https://files.realpython.com/media/01_initial_notebook_screen.cb2ea87d9679.png)
