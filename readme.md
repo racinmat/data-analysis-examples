@@ -18,3 +18,4 @@ Pokud se všechno nainstalovalo správně, tak po zadání `jupyter notebook` do
 
 Sebevraždy, lze stahnout zde: (musíte se registrovat, abyste ho mohli stahnout)
 https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+nebo z tohohle repozitáře, je to soubor `master.csv`
